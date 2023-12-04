@@ -52,6 +52,8 @@
 
 <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
