@@ -26,6 +26,6 @@
 
 ### Stats
 
-<div> <a href="https://github.com/ericaviana12"> <img loading="lazy" height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ericaviana12" /> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaviana12&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ericaviana12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
+<div> <a href="https://github.com/ericaviana12"> <img loading="lazy" height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ericaviana12"&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaviana12&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ericaviana12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
 
 <img src="https://github.com/ericaviana12/ericaviana12/blob/main/coding.gif">
