@@ -1,4 +1,4 @@
-### Hi 👋 My name is Erica Viana
+## Hi 👋 My name is Erica Viana
 
 - 🌱 I am currently studying in the Computer Technician course. In this course I will take classes on networks and infrastructure, operating systems and development
 
