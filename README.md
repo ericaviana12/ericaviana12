@@ -1,3 +1,4 @@
+
 ### Hi 👋 My name is Erica Viana
 
 - 🌱 I am currently studying in the Computer Technician course. In this course I will take classes on networks and infrastructure, operating systems and development
@@ -8,7 +9,8 @@
 
 <div>
 <a href = "mailto: erica.viana.soares@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/erica-viana-soares/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div><a href = "https://wa.me/5511930048795"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </div><a href = "https://t.me/ericaviana12"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href = "https://wa.me/5511930048795"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <a href = "https://t.me/ericaviana12"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</div>
 
 ### Office
 
