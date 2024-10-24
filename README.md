@@ -1,4 +1,4 @@
-### Hi 👋 I'm Erica Viana
+## Hi 👋 I'm Erica Viana
 
 - 🌱 I'm currently a Computer Technician student, focusing on networks, infrastructure, operating systems, and development.
 - 💻 Passionate about web development, databases, and software analysis.
