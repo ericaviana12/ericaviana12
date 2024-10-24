@@ -1,8 +1,19 @@
-### Hi 👋 My name is Erica Viana
+### Hi 👋 I'm Erica Viana
 
-- 🌱 I am currently studying in the Computer Technician. In this course I will take classes on networks and infrastructure, operating systems and development.
+- 🌱 I'm currently a Computer Technician student, focusing on networks, infrastructure, operating systems, and development.
+- 💻 Passionate about web development, databases, and software analysis.
+- 🛠 Currently working on projects involving JavaScript, HTML, and website development.
+- 🗺 Based in São Paulo, Brazil.
 
-- 🗺 I live in São Paulo, SP - Brazil
+If you enjoy my content, consider following me, starring my repositories, or even cloning them for your own use! ⭐
+
+## Olá 👋 Eu sou Erica Viana
+- 🌱 Atualmente, sou estudante de Técnico de Informática, com foco em redes, infraestrutura, sistemas operacionais e desenvolvimento.
+- 💻 Apaixonada por desenvolvimento web, bancos de dados e análise de software.
+- 🛠 Atualmente trabalhando em projetos com JavaScript, HTML e desenvolvimento de sites.
+- 🗺 Resido em São Paulo, Brasil.
+
+Se você gosta do meu conteúdo, considere me seguir, dar uma estrela nos meus repositórios ou até cloná-los para seu próprio uso! ⭐
 
 ### Contacts:
 
