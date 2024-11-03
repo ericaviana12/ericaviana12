@@ -15,8 +15,7 @@ If you enjoy my content, consider following me, starring my repositories, or eve
 
 Se você gosta do meu conteúdo, considere me seguir, dar uma estrela nos meus repositórios ou até cloná-los para seu próprio uso! ⭐
 
-<img src="https://komarev.com/ghpvc/?username=ericaviana12&label=Profile%20views&color=0e75b6&style=flat" alt="Erica Viana"/>
-<a href="https://github.com/ericaviana12/ericaviana12/stargazers"><img src="https://img.shields.io/github/stars/ericaviana12/ericaviana12" alt="Stars Badge"/></a>
+<img src="https://komarev.com/ghpvc/?username=ericaviana12&label=Profile%20views&color=0e75b6&style=flat" alt="Erica Viana"/> <a href="https://github.com/ericaviana12/ericaviana12/stargazers"><img src="https://img.shields.io/github/stars/ericaviana12/ericaviana12" alt="Stars Badge"/></a>
 
 ### Contacts:
 
