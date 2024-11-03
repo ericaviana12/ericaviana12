@@ -17,7 +17,7 @@ Se você gosta do meu conteúdo, considere me seguir, dar uma estrela nos meus r
 
 <img src="https://komarev.com/ghpvc/?username=ericaviana12&label=Profile%20views&color=0e75b6&style=flat" alt="Erica Viana"/>
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ericaviana12.ericaviana12)
+<img src="https://visitor-badge.glitch.me/badge?page_id=ericaviana12.ericaviana12" alt="Erica Viana"/>
 
 ### Contacts:
 
