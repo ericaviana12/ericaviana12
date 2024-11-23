@@ -40,8 +40,8 @@ Se você gosta do meu conteúdo, considere me seguir, dar uma estrela nos meus r
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaviana12&layout=compact&langs_count=7&theme=dark" width="700px" />  
-<img src="https://github-readme-stats.vercel.app/api?username=ericaviana12&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="700px" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ericaviana12&theme=dark" alt="Erica Viana" width="700px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaviana12&layout=compact&langs_count=7&theme=dark" width="500px" />  
+<img src="https://github-readme-stats.vercel.app/api?username=ericaviana12&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="500px" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ericaviana12&theme=dark" alt="Erica Viana" width="500px" />
 
-<img src="https://github.com/ericaviana12/ericaviana12/blob/main/codigo.gif" width="700px" />
+<img src="https://github.com/ericaviana12/ericaviana12/blob/main/codigo.gif" width="500px" />
