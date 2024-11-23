@@ -15,6 +15,7 @@ If you enjoy my content, consider following me, starring my repositories, or eve
 
 Se você gosta do meu conteúdo, considere me seguir, dar uma estrela nos meus repositórios ou até cloná-los para seu próprio uso! ⭐
 
+"Apoie meu trabalho e ajude a impulsionar novos projetos!"
 <a href="https://github.com/sponsors/ericaviana12">
 <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /> </a>
 
