@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Erica Viana
 
 🎓 I'm currently a Computer Technician student, focusing on networks, infrastructure, operating systems, and development.  
-💻 Passionate about web development, databases, and software analysis.  
+💻 Enthusiast of web development, database management, and software system analysis.  
 🌐 Currently working on projects with JavaScript, HTML, and database-driven applications.  
 📍 São Paulo, Brazil.
 
@@ -9,13 +9,13 @@ If you enjoy my content, consider following me, starring my repositories, or eve
 
 ## Olá 👋 Eu sou Erica Viana
 🎓 Estudante de Técnico em Informática com foco em redes, infraestrutura, sistemas operacionais e desenvolvimento.  
-💻 Apaixonada por desenvolvimento web, bancos de dados e análise de software.  
+💻 Entusiasta do desenvolvimento web, gerenciamento de bancos de dados e análise de sistemas de software.  
 🌐 Atualmente trabalhando em projetos com JavaScript, HTML e desenvolvimento de aplicações com banco de dados.  
 📍 São Paulo, Brasil.
 
 Se você gosta do meu conteúdo, considere me seguir, dar uma estrela nos meus repositórios ou até cloná-los para seu próprio uso! ⭐
 
-Apoie meu trabalho e ajude a impulsionar novos projetos! <br>
+Apoie meu trabalho e ajude a impulsionar novos projetos!  
 <a href="https://github.com/sponsors/ericaviana12">
 <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /> </a>
 
@@ -54,16 +54,17 @@ Apoie meu trabalho e ajude a impulsionar novos projetos! <br>
 
 #### Learning
 
-![CISCO](https://img.shields.io/badge/CISCO-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![CISCO](https://img.shields.io/badge/CISCO-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -77,7 +78,6 @@ Apoie meu trabalho e ajude a impulsionar novos projetos! <br>
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
 ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=flat-square&logo=amazon&logoColor=white)
-![Hulu](https://img.shields.io/badge/Hulu-1CE783?style=flat-square&logo=hulu&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
