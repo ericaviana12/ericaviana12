@@ -1,17 +1,18 @@
 ## Hi 👋 I'm Erica Viana
 
-🎓 I'm currently a Computer Technician student, focusing on networks, infrastructure, operating systems, and development.  
-💻 Enthusiast of web development, database management, and software system analysis.  
-🌐 Currently working on projects with JavaScript, HTML, and database-driven applications.  
-📍 São Paulo, Brazil.
+- 🎓 I'm currently a Computer Technician student, focusing on networks, infrastructure, operating systems, and development.  
+- 💻 Enthusiast of web development, database management, and software system analysis.  
+- 🌐 Currently working on projects with JavaScript, HTML, and database-driven applications.  
+- 📍 São Paulo, Brazil.
 
 If you enjoy my content, consider following me, starring my repositories, or even cloning them for your own use! ⭐
 
 ## Olá 👋 Eu sou Erica Viana
-🎓 Estudante de Técnico em Informática com foco em redes, infraestrutura, sistemas operacionais e desenvolvimento.  
-💻 Entusiasta do desenvolvimento web, gerenciamento de bancos de dados e análise de sistemas de software.  
-🌐 Atualmente trabalhando em projetos com JavaScript, HTML e desenvolvimento de aplicações com banco de dados.  
-📍 São Paulo, Brasil.
+
+- 🎓 Estudante de Técnico em Informática com foco em redes, infraestrutura, sistemas operacionais e desenvolvimento.  
+- 💻 Entusiasta do desenvolvimento web, gerenciamento de bancos de dados e análise de sistemas de software.  
+- 🌐 Atualmente trabalhando em projetos com JavaScript, HTML e desenvolvimento de aplicações com banco de dados.  
+- 📍 São Paulo, Brasil.
 
 Se você gosta do meu conteúdo, considere me seguir, dar uma estrela nos meus repositórios ou até cloná-los para seu próprio uso! ⭐
 
