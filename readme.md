@@ -85,6 +85,6 @@ Apoie meu trabalho e ajude a impulsionar novos projetos!
 
 #### Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaviana12&layout=compact&langs_count=7&theme=dark" width="350px" />  
-<img src="https://github-readme-stats.vercel.app/api?username=ericaviana12&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="350px" />  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ericaviana12&theme=dark" alt="Erica Viana" width="350px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaviana12&layout=compact&langs_count=7&theme=dark" width="350px"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=ericaviana12&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="350px"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ericaviana12&theme=dark" alt="Erica Viana" width="350px"/>
