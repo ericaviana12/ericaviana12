@@ -52,6 +52,7 @@ Apoie meu trabalho e ajude a impulsionar novos projetos!
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
 #### Learning
 
