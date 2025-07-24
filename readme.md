@@ -1,19 +1,19 @@
 ## Hi 👋 I'm Erica Viana
 
-- 🎓 I'm currently a Computer Technician student at **Senac**, where I focus on networks, infrastructure, operating systems and development.
-- 💻 Passionate about web development, database management and software systems analysis.
-- 🌐 Working on hands-on projects using JavaScript, HTML and database-driven applications.
-- 🚀 Also a participant in the **Oracle Next Education (ONE)** program, expanding my knowledge in front-end, back-end and career development.
+- 🎓 I'm currently a Computer Technician student at **Senac**, where I focus on networks, infrastructure, operating systems and software creation.  
+- 🚀 Also a participant in the **Oracle Next Education (ONE)** program, where I'm expanding my skills in front-end, back-end, and career growth.  
+- 💻 Passionate about programming, database management and system analysis.  
+- 🌐 Engaged in hands-on projects using JavaScript, HTML and data-driven applications.  
 - 📍 Based in São Paulo, Brazil.
 
 If you enjoy my content, consider following me, starring my repositories, or even cloning them for your own use! ⭐
 
 ## Olá 👋 Eu sou Erica Viana
 
-- 🎓 Estudante do curso Técnico em Informática pelo **Senac**, com foco em redes, infraestrutura, sistemas operacionais e desenvolvimento.
-- 💻 Entusiasta de desenvolvimento web, gerenciamento de bancos de dados e análise de sistemas de software.
-- 🌐 Desenvolvendo projetos práticos com JavaScript, HTML e aplicações com banco de dados.
-- 🚀 Participante do programa **Oracle Next Education (ONE)**, onde estou ampliando meus conhecimentos em front-end, back-end e desenvolvimento profissional.
+- 🎓 Estudante do curso Técnico em Informática pelo **Senac**, com foco em redes, infraestrutura, sistemas operacionais e criação de softwares.  
+- 🚀 Participante do programa **Oracle Next Education (ONE)**, onde venho aprimorando minhas habilidades em front-end, back-end e desenvolvimento de carreira.  
+- 💻 Apaixonada por programação, gestão de bancos de dados e análise de sistemas.  
+- 🌐 Envolvida em projetos práticos com JavaScript, HTML e aplicações baseadas em dados.  
 - 📍 São Paulo, Brasil.
 
 Se você gosta do meu conteúdo, considere me seguir, dar uma estrela nos meus repositórios ou até cloná-los para seu próprio uso! ⭐
