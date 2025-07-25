@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Erica Viana
 
-- 🎓 I'm currently a Computer Technician student at **Senac**, where I focus on networks, infrastructure, programming, software development, and databases.
+- 🎓 I'm currently a Computer Technician student at **Senac**, where I focus on networks, infrastructure, programming, software development and databases.
 - 🚀 Also a participant in the **Oracle Next Education (ONE)** program, where I'm expanding my skills in front-end, back-end, and career growth.  
 - 💻 Passionate about programming, database management and system analysis.  
 - 🌐 Engaged in hands-on projects using JavaScript, HTML and data-driven applications.  
