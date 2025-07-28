@@ -71,15 +71,6 @@ Apoie meu trabalho e ajude a impulsionar novos projetos!
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=flat&logo=electron&logoColor=9FEAF9)
 
-#### Hobbies & entertainment
-
-![Counter Strike](https://img.shields.io/badge/Counter_Strike-000000?style=flat&logo=counter-strike&logoColor=white)
-![FIFA](https://img.shields.io/badge/FIFA-B7312F?style=flat&logo=fifa&logoColor=white)
-![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)
-![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
-
 #### Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaviana12&layout=compact&langs_count=7&theme=dark" width="350px"/>  
