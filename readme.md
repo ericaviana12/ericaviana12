@@ -1,19 +1,17 @@
 ## Hi 👋 I'm Erica Viana
 
-- 🎓 I'm currently a Computer Technician student at **Senac**, where I focus on networks, infrastructure, programming, software development and databases.
-- 🚀 Also a participant in the **Oracle Next Education (ONE)** program, where I'm expanding my skills in front-end, back-end, and career growth.  
+- 🎓 I'm currently a Computer Technician student at **Senac**.
+- 🚀 Also a participant in the **Oracle Next Education (ONE)**.  
 - 💻 Passionate about programming, database management and system analysis.  
-- 🌐 Engaged in hands-on projects using JavaScript, HTML and data-driven applications.  
 - 📍 Based in São Paulo, Brazil.
 
 If you enjoy my content, consider following me, starring my repositories, or even cloning them for your own use! ⭐
 
 ## Olá 👋 Eu sou Erica Viana
 
-- 🎓 Estudante do curso Técnico em Informática pelo **Senac**, com foco em redes, infraestrutura,  programação, desenvolvimento de software e banco de dados.
-- 🚀 Participante do programa **Oracle Next Education (ONE)**, onde venho aprimorando minhas habilidades em front-end, back-end e desenvolvimento de carreira.  
+- 🎓 Estudante do curso Técnico em Informática pelo **Senac**.
+- 🚀 Participante do programa **Oracle Next Education (ONE)**.  
 - 💻 Apaixonada por programação, gestão de bancos de dados e análise de sistemas.  
-- 🌐 Envolvida em projetos práticos com JavaScript, HTML e aplicações baseadas em dados.  
 - 📍 São Paulo, Brasil.
 
 Se você gosta do meu conteúdo, considere me seguir, dar uma estrela nos meus repositórios ou até cloná-los para seu próprio uso! ⭐
@@ -32,15 +30,6 @@ Apoie meu trabalho e ajude a impulsionar novos projetos!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-viana-soares/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5511930048795)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ericaviana12)
-
-#### Office skills
-
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Todoist](https://img.shields.io/badge/Todoist-E44332?style=flat&logo=todoist&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 
 #### Development
 
