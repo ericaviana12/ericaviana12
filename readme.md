@@ -1,22 +1,23 @@
-## Hi 👋 I'm Erica Viana
+## Hi 👋 I'm Erica Viana  
 
-- 🎓 I'm currently a Computer Technician student at **Senac**.
-- 🚀 Also a participant in the **Oracle Next Education (ONE)**.  
+- 🎓 **Computer Technician graduate** from **Senac**.  
+- 🚀 Currently a participant in the **Oracle Next Education (ONE)**.  
 - 💻 Passionate about programming, database management and system analysis.  
-- 📍 Based in São Paulo, Brazil.
+- 📍 Based in São Paulo, Brazil.  
 
-If you enjoy my content, consider following me, starring my repositories, or even cloning them for your own use! ⭐
+If you enjoy my content, consider following me, starring my repositories, or even cloning them for your own use! ⭐  
 
-## Olá 👋 Eu sou Erica Viana
+## Olá 👋 Eu sou Erica Viana  
 
-- 🎓 Estudante do curso Técnico em Informática pelo **Senac**.
-- 🚀 Participante do programa **Oracle Next Education (ONE)**.  
+- 🎓 **Formada em Técnico em Informática** pelo **Senac**.  
+- 🚀 Atualmente participante do programa **Oracle Next Education (ONE)**.  
 - 💻 Apaixonada por programação, gestão de bancos de dados e análise de sistemas.  
-- 📍 São Paulo, Brasil.
+- 📍 São Paulo, Brasil.  
 
-Se você gosta do meu conteúdo, considere me seguir, dar uma estrela nos meus repositórios ou até cloná-los para seu próprio uso! ⭐
+Se você gosta do meu conteúdo, considere me seguir, dar uma estrela nos meus repositórios ou até cloná-los para seu próprio uso! ⭐  
 
-Apoie meu trabalho e ajude a impulsionar novos projetos!  
+Apoie meu trabalho e ajude a impulsionar novos projetos!
+
 <a href="https://github.com/sponsors/ericaviana12">
 <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /> </a>
 
