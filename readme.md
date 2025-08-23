@@ -34,19 +34,6 @@ Apoie meu trabalho e ajude a impulsionar novos projetos!
 
 #### Development
 
-![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=flat&logo=VirtualBox&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
-![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=flat&logo=powershell&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
-
-#### In formation
-
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -63,6 +50,6 @@ Apoie meu trabalho e ajude a impulsionar novos projetos!
 
 #### Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaviana12&layout=compact&langs_count=7&theme=dark" width="350px"/>  
-<img src="https://github-readme-stats.vercel.app/api?username=ericaviana12&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="350px"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ericaviana12&theme=dark" alt="Erica Viana" width="350px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericaviana12&layout=compact&langs_count=7&theme=dark" width="300px"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=ericaviana12&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="300px"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ericaviana12&theme=dark" alt="Erica Viana" width="300px"/>
