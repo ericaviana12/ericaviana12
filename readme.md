@@ -1,7 +1,6 @@
 ## Hi 👋 I'm Erica Viana  
 
 - 🎓 **Computer Technician graduate** from **Senac**.  
-- 🚀 Currently a participant in the **Oracle Next Education (ONE)**.  
 - 💻 Passionate about programming, database management and system analysis.  
 - 📍 Based in São Paulo, Brazil.  
 
@@ -10,7 +9,6 @@ If you enjoy my content, consider following me, starring my repositories, or eve
 ## Olá 👋 Eu sou Erica Viana  
 
 - 🎓 **Formada em Técnico em Informática** pelo **Senac**.  
-- 🚀 Atualmente participante do programa **Oracle Next Education (ONE)**.  
 - 💻 Apaixonada por programação, gestão de bancos de dados e análise de sistemas.  
 - 📍 São Paulo, Brasil.  
 
